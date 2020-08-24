@@ -1,5 +1,5 @@
 $(document).ready(function() {
-    $('.header-container').load("/reuse/header.html");
-    $('head').load("/reuse/head.html");
-    $('address').load("/reuse/address.html");
+    $('.header-container').load("header.html");
+    $('head').load("head.html");
+    $('address').load("address.html");
 });
