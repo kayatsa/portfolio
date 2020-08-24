@@ -50,6 +50,15 @@ a:hover {
     background-color: #4f697d;
 }
 
+/* footer */
+
+address {
+    padding: 1.5em 0;
+    text-align: center;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 12px;
+}
+
 /* navbar */
 
 #navbar {
