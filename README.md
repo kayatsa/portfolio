@@ -6,7 +6,7 @@ My portfolio website. Pages include:
 * Résumé
 * Contact
 
-You can view the site here: https://kayatsa.github.io/portfolio-site/
+You can view the site here: https://kayatsa.github.io/portfolio/
 
 ## Supported Browsers and Devices
 
